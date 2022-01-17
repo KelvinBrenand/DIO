@@ -1,2 +1,2 @@
 # DIO
-A repo dedicated to the Digital Innovation One bootcamps.
+A repo dedicated to my Digital Innovation One projects.
